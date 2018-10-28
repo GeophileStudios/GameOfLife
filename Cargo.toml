@@ -1,0 +1,8 @@
+[package]
+name = "gol"
+version = "0.1.0"
+authors = ["nick-valentine <nick9625@gmail.com>"]
+
+[dependencies]
+cursive = "0.9"
+rand = "0.5.5"
